@@ -9,4 +9,5 @@
 // pub mod put_marbles;
 // pub mod most_water;
 // pub mod largest_variance;
-pub mod bananas;
+// pub mod bananas;
+pub mod smallest_divisor;
