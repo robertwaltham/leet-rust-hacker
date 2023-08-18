@@ -8,5 +8,6 @@ fn main() {
     // problems::rotate_array::test_rotate();
     // problems::longest_subarray::test_longest_subarray();
     // problems::put_marbles::test_put_marbles();
-    problems::largest_variance::test_largest_variance();
+    // problems::largest_variance::test_largest_variance();
+    // problems::bananas::test_min_eating_speed();
 }
