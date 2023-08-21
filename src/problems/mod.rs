@@ -10,5 +10,6 @@
 // pub mod most_water;
 // pub mod largest_variance;
 // pub mod bananas;
+pub mod k_closest_points;
 pub mod mountain_array;
 pub mod smallest_divisor;
