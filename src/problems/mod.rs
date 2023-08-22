@@ -11,5 +11,6 @@
 // pub mod largest_variance;
 // pub mod bananas;
 pub mod k_closest_points;
+pub mod longest_substring_without_repeat;
 pub mod mountain_array;
 pub mod smallest_divisor;
