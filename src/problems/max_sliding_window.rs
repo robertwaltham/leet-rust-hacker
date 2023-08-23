@@ -42,11 +42,8 @@ impl Solution {
 mod tests {
     use crate::problems::max_sliding_window::*;
     fn test_case(nums: Vec<i32>, k: i32, expected: Vec<i32>) {
-        assert_eq!(
-            // "{:?} expected: {:?}",
-            Solution::max_sliding_window(nums, k),
-            expected
-        );
+        println!("nums: {:?} k:{} expected:{:?}", nums, k, expected);
+        assert_eq!(Solution::max_sliding_window(nums, k), expected);
     }
 
     #[test]
