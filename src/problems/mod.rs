@@ -15,4 +15,5 @@ pub mod longest_substring_without_repeat;
 pub mod max_sliding_window;
 pub mod min_subarray_sum;
 pub mod mountain_array;
+pub mod search_in_rotated_array;
 pub mod smallest_divisor;
